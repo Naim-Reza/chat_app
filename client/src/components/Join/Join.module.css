@@ -1,0 +1,16 @@
+.container {
+  height: 100vh;
+}
+
+.cardContainer {
+  padding: 2rem;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.btnRight {
+  margin-left: auto !important;
+}
